@@ -1,0 +1,148 @@
+#div1{
+	border:2px none;
+	border-radius: 10px;
+	background-color: #8D8741;
+	width: 500px;
+	height: 100px;
+	margin-top:70px;
+	margin-left: 400px;
+}
+#p1{
+	font-size: 20px;
+	font-family: Georgia;
+	padding-left: 10px;
+	padding-top: 33px;
+}
+#p2{
+	font-size: 15px;
+	font-family: Georgia;
+	margin-top: -103px;
+	margin-left: 317px;
+}
+#p3{
+	font-size: 15px;
+	font-family: Georgia;
+	margin-top: 7px;
+	margin-left:317px;
+}
+#p4{
+	font-size: 15px;
+	font-family: Georgia;
+	margin-left: 317px;
+	margin-top: 7px;
+}
+#foto1{
+	width: 100px;
+	height:100px;
+	margin-top: -75px;
+	margin-left:-102px;
+}
+#div2{
+	border:none;
+	border-radius: 10px;
+	background-color: #659DBD;
+	width: 600px;
+	height: 150px;
+	margin-left: 303px;
+	margin-top: -14px;
+}
+#p5{
+	color: orange;
+	font-size: 20px;
+	font-family: Georgia;
+	padding-top: 18px;
+	padding-left: 230px;
+}
+#p6{
+	font-size: 18px;
+	font-family: Georgia;
+	margin-left: 30px;
+}
+#div3{
+	border: none;
+	border-radius: 10px;
+	background-color: #659DBD;
+	width:600px;
+	height: 270px;
+	margin-left: 303px;
+	margin-top: -17px;
+}
+#p7{
+	font-size: 20px;
+	color: orange;
+	font-family: Georgia;
+	padding-top: 18px;
+	padding-left: 230px;
+}
+#p8{
+	font-size: 18px;
+	font-family: Georgia;
+	padding-left: 30px;
+}
+#div4{
+	border:none;
+	border-radius: 10px;
+	background-color: #659DBD;
+	width: 600px;
+	height: 200px;
+	margin-left: 303px;
+	margin-top: -14px;
+}
+#p9{
+	font-size: 20px;
+	color: orange;
+	font-family: Georgia;
+	padding-left: 260px;
+	padding-top: 18px;
+}
+#p10{
+	font-size: 20px;
+	padding-left: 160px;
+}
+#p11{
+	font-size: 20px;
+	padding-left: 130px;
+}
+#p12{
+	font-size: 20px;
+	padding-left: 150px;
+}
+#p13{
+	font-size: 20px;
+	margin-left: 355px;
+	margin-top: -126px;
+}
+#p14{
+	font-size: 20px;
+	margin-left: 358px;
+}
+#p15{
+	font-size: 20px;
+	margin-left: 339px;
+}
+#div5{
+	border:none;
+	border-radius: 10px;
+	background-color: #659DBD;
+	width: 600px;
+	height: 180px;
+	margin-left: 303px;
+	margin-top: -14px;
+}
+#p16{
+	font-size: 20px;
+	color: orange;
+	font-family: Georgia;
+	padding-left: 260px;
+	padding-top: 18px;
+}
+#p17{
+	font-size: 20px;
+	text-align: center;
+	font-family: Georgia;
+}
+#p18{
+	font-size: 20px;
+	text-align: center;
+	font-family: Georgia;
+}
